@@ -1,0 +1,26 @@
+body {
+    background-image: url(bg/Miduser_4k_modern_cartoon_background_of_space_in_this_style_bd254e8e-276e-4d40-bc76-f95d797fbdab.png);
+    -webkit-background-size: cover;
+   background-repeat: no-repeat;
+}
+
+.logo {
+    width: 8%;
+    position: absolute;
+}
+
+#EDITOR {
+    position: absolute;
+    margin-top: 20%;
+    font-size: 50px;
+    margin-left: 15%;
+    color: aliceblue;
+    font-family: GothamBold;
+    box-shadow: solid saddlebrown 15px;
+    text-shadow: solid rgb(7, 3, 0) px 15px 13px;
+}
+
+@font-face {
+    font-family: GothamBold;
+    src: url(asset/Font/GothamBold.ttf);
+}
